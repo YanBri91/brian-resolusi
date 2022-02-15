@@ -1,6 +1,9 @@
 RENCANA B Brian
 - lanjut Kuliah
   *lanjut S2
+   ^jurusan TI
 - tidur aja
 - ternak ayam
+  * ayam petelur
 - jualan
+- bantu ortu
