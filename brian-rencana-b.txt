@@ -3,6 +3,7 @@ RENCANA B Brian
   *lanjut S2
    ^jurusan TI
    ^jurusan SI
+   ^jurusan Ekonomi
 - tidur aja
 - ternak ayam
   * ayam petelur
